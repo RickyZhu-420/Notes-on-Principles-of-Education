@@ -6,7 +6,7 @@
 
 - 本内容依据 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 许可证进行授权，转载需**署名**，**非商业性使用**，**相同方式共享**
 
-    <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="img" style="zoom:50%;" />
+    <center><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="img" style="zoom:50%;" /></center>
 
 
 
