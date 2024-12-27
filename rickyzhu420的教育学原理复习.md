@@ -173,8 +173,7 @@
 
 ### 来自《教育学原理》
 
-以下内容页面基于**[马工程教育学](https://wps3.cldisk.com/weboffice/office/f/6530711035a13d073d3e49c284880670?_w_appid=DOEJSZFNQSTHSITO&_w_third_appid=DOEJSZFNQSTHSITO&_w_third_file_id=6530711035a13d073d3e49c284880670&_w_third_param_obj=h9uh7V3b5OHfoGtWPLmftMJp3jT%2BmoAyHrYTDOjJcMA12sf1j8vVFoa8qe0pR207MsQG9qzg4iFE7rj3S2J%2BCjmJTgpHvW1pFRqJyZ6fET8B4Joryxzf%2BkH6urUjtgCP4zAl80doBuY7yIYrT8XRHqDcpynhR8yxeUI9emuqdZihSIijO9DvYO%2FiVaItArpZP6LoDDzP%2Bel9PKdgWBZEa9%2FhDCZ5%2B9tS4ONYlEn%2B4x%2BO7iEGDIH1gTSpYzNuSs%2F3GT%2BOTv8PJ4T98TV9nWSEIsqR37%2BOO3KrAE6B9gd9r1iKaSqEAoOXcu21EkP1CmR1ZHmR3v4wSMjcUuSqhjgAid5zvh0HypRyY19dOICf6Pc%3D&preview_mode=ordinary&route_key=14&_from=mooc&simple&hidecmb&__doc_route_key=14)**，页码关系为$$PDF页码=纸质页码+10$$，电子书仅在桌面端可以按页码跳转
-
+以下内容页面基于**[马工程教育学](https://pan-yz.chaoxing.com/screen/file_6530711035a13d073d3e49c284880670)**，页码关系为： PDF 页码 = 纸质页码 + 10
 
 
 
@@ -404,7 +403,7 @@
 
 ### 来自《新编教育学》
 
-以下内容页面基于**[新编教育学](https://wps3.cldisk.com/weboffice/office/f/2e5ba9d25bc7ea091d32e88533e7453e?_w_appid=DOEJSZFNQSTHSITO&_w_third_appid=DOEJSZFNQSTHSITO&_w_third_file_id=2e5ba9d25bc7ea091d32e88533e7453e&_w_third_param_obj=h9uh7V3b5OHfoGtWPLmftNPJme%2B14yG3CAdxsazYfxWXLb8aB0qSPA%2F9fAQbsYeqHimBIast4ioQa8OTeEB%2FGlhn36Wm1gOouAsDnkrtGy2RIQ9zBTqRw1IT%2F7DaiDWw4zAl80doBuY7yIYrT8XRHqDcpynhR8yxeUI9emuqdZihSIijO9DvYO%2FiVaItArpZEYMB4E8WlNXwGUyFqO2n0uR1ouKCDt6jA2JZBABg0c2O7iEGDIH1gTSpYzNuSs%2F3GT%2BOTv8PJ4T98TV9nWSEIsqR37%2BOO3KrAE6B9gd9r1iuHm8RNfEFfmjXVEvJZ5b3o0YRfmOHNHQKVM%2F%2B%2FeuXMd5zvh0HypRyY19dOICf6Pc%3D&preview_mode=ordinary&route_key=14&_from=mooc&simple&hidecmb&__doc_route_key=14)**，页码关系为 $$PDF页码=纸质页码+12$$，电子书仅在桌面端可以按页码跳转
+以下内容页面基于**[新编教育学](https://pan-yz.chaoxing.com/screen/file_2e5ba9d25bc7ea091d32e88533e7453e)**，页码关系为：PDF 页码 = 纸质页码 + 12
 
 部分考点附图片链接，点击对应图片查看
 
