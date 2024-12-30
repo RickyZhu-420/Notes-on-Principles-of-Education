@@ -101,7 +101,6 @@
 
 - 孔子的教育思想集中体现在《论语》中
 - 儒家对教育所提出的最高目标是“止于至善”
-- 儒家主张“道法自然”
 - 儒家强调“学而优则仕”，注重三方面修养“仁知勇”
 
 **法家**
@@ -178,6 +177,7 @@
 <iframe src="https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html" title="教育学题库" width="100%" height="600">
   <p>您的浏览器不支持iframe标签。访问https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html查看题库</p>
 </iframe>
+
 
 
 
