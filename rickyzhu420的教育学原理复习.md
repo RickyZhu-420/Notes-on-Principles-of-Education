@@ -2,9 +2,7 @@
 
 > [!CAUTION]
 >
-> ❌**此页面将于 2024/12/31 12\:00 ( GMT + 8 ) 起暂停服务**
->
-> **❌不得将此页面及其内容用于考试作弊等目的**
+> **此页面将于 2024/12/31 12\:00 ( GMT + 8 ) 起暂停服务，用以杜绝一切可能的作弊行为**
 
 - 本内容由 <u>rickyzhu420</u> 制作整理，部分使用了来自 <u>Rind Yang</u> 的内容。完成于 <u>2024/12/30</u>
 
@@ -13,12 +11,6 @@
 - 本内容依据 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** 许可证进行授权，转载需**署名**，**非商业性使用**，**相同方式共享**
 
     <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="img" style="zoom:50%;" />
-
-
-
-- 欢迎欣赏此处的音乐片段
-
-    <center><iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/dancing-with-a-stranger/1447334977?i=1447334978"></iframe></center>
 
 
 
@@ -99,7 +91,7 @@
 
 
 
-#### 名家名人考点
+#### [新加入] 名家名人考点
 
 > [!CAUTION]
 >
@@ -174,6 +166,18 @@
 3. 课程结构依次是**组织教学、复习过渡、讲授新教材、巩固新教材、布置课外作业**
 
 **[并不全面]**
+
+
+
+### [新加入] 选择题题库
+
+> 应该没有人看得完，但不会有人不看
+>
+> 也可以访问**[这个链接](https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html)**查看
+
+<iframe src="https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html" title="教育学题库" width="100%" height="600">
+  <p>您的浏览器不支持iframe标签。访问https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html查看题库</p>
+</iframe>
 
 
 
@@ -661,13 +665,3 @@
 - 深化拓展教育理论
 - 推动教育改革和实践
 - 促进教师专业成长
-
-
-
-### 选择题题库
-
-> 应该没有人看得完，但不会有人不看
-
-<iframe src="https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html" title="教育学题库" width="100%" height="600">
-  <p>您的浏览器不支持iframe标签。访问https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html查看题库</p>
-</iframe>
