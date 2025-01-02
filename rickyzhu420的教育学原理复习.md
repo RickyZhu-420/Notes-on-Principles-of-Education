@@ -12,13 +12,11 @@
 
     <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="img" style="zoom:50%;" />
 
-> [!CAUTION]
->
-> **不得将本内容用于作弊行为！**
-
 > [!WARNING]
 >
 > **本内容仅基于创作者学校的期末考察范围**
+>
+> **不得将本内容用于作弊行为！**
 
 
 
