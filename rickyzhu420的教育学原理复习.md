@@ -207,9 +207,7 @@
 >
 > 也可以访问**[这个链接](https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html)**查看
 
-<iframe src="https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html" title="教育学题库" width="100%" height="600">
-  <p>您的浏览器不支持iframe标签。访问https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html查看题库</p>
-</iframe>
+<iframe src="https://rickyzhu-420.github.io/Notes-on-Principles-of-Education/%E6%95%99%E8%82%B2%E5%AD%A6%E9%A2%98%E5%BA%93.html" title="教育学题库" width="100%" height="600"></iframe>
 
 
 
