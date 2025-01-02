@@ -489,7 +489,7 @@
 
 > [!IMPORTANT]
 >
-> 可能选择题
+> **可能选择题**
 
 **[图 1](https://s3.ananas.chaoxing.com/sv-w7/doc/1a/f0/5b/2e5ba9d25bc7ea091d32e88533e7453e/thumb/115.png)**
 
